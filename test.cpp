@@ -16,6 +16,8 @@ using namespace std;
 
 int main()
 {
+    //add test for merge of master
+    //test
     printf("test pritnf\n");
     string a("测试");
     cout << a << "\n";
