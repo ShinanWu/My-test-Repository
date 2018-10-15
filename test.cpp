@@ -16,7 +16,10 @@ using namespace std;
 
 int main()
 {
+<<<<<<< HEAD
     //add test for merge of master
+=======
+>>>>>>> testbranch
     //test
     printf("test pritnf\n");
     string a("测试");
