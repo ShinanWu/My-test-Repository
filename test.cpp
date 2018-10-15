@@ -16,6 +16,7 @@ using namespace std;
 
 int main()
 {
+    //test
     printf("test pritnf\n");
     string a("测试");
     cout << a << "\n";
