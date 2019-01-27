@@ -13,9 +13,10 @@ class A
 class B
 {
  public:
-  void funB(int num1, int num2)
+  int funB(int num1, int num2)
   {
     std::cout << "funB, num1:" << num1 << " num2:" << num2;
+    return 1;
   }
 };
 
